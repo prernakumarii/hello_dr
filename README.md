@@ -1,4 +1,4 @@
-# Heart Throb ❤️  
+# Heart Throb   
 ### Proactive AI + IoT Smartwatch for Predicting and Preventing Heart Attacks
 
 Heart Throb is a low-cost, AI-powered IoT wearable designed to **predict cardiac distress before a heart attack occurs** and trigger **real-time emergency response**. Unlike traditional wearables that only monitor vitals, Heart Throb functions as a **predict-and-protect system**, targeting elderly and rural populations with limited access to timely healthcare.
